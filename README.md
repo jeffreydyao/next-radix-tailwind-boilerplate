@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Tailwind CSS(https://tailwindcss.com/docs/guides/nextjs), Radix Colors(https://github.com/brattonross/windy-radix-palette) and the Inter font family(https://rsms.me/inter/) are included. The boilerplate is in TypeScript.
 
 ## Getting Started
 
